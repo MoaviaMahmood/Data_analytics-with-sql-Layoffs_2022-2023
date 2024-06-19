@@ -15,6 +15,19 @@ The dataset contains the following columns:
 7. Country
 8. Funds Raised in Millions
 
+# Data Analysis
+
+## Top 10 Companies had the highest number of layoffs
+```sql
+SELECT TOP (10) 
+   company, 
+   total_laid_off
+FROM layoff_staging_2
+ORDER BY total_laid_off DESC
+```
+![01](https://github.com/MoaviaMahmood/SQL_Data_Analytics_of_Independence-days-of-countries/assets/168455506/fa707a8d-b342-4c2c-9226-204991d3fa41)
+
+
    
 
 
