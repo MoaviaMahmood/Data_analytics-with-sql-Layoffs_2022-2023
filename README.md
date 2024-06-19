@@ -27,7 +27,7 @@ ORDER BY total_laid_off DESC;
 ```
 ![01](https://github.com/MoaviaMahmood/SQL_Data_Analytics_of_Independence-days-of-countries/assets/168455506/fa707a8d-b342-4c2c-9226-204991d3fa41)
 
-## Countries have the highest total number of layoffs
+## Countries with the highest total number of layoffs
 ```sql
 SELECT top 10
 	country, 
