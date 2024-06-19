@@ -1,11 +1,21 @@
 # Data Analytics of Layoffs between 2022-2023
 
-## Dataset Description
-The dataset used in this repository provides information about layoffs across various companies. Each record in the dataset represents a layoff event at a specific company. The dataset contains the following columns:
+## Overview
 
-### Topics/Tags
-- Layoffs
-- Data Analysis
-- SQL
-- CSV
-- Employment Trends
+The data in this repository is intended for use in understanding trends in company layoffs, performing data analysis, and generating reports.
+
+## Dataset Description
+The dataset contains the following columns:
+1. Company Name
+2. Location(city)
+3. Industry Type
+4. Total Layoff
+5. Percentage Layoffs
+6. Stage of Funding
+7. Country
+8. Funds Raised in Millions
+
+   
+
+
+
