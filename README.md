@@ -59,7 +59,7 @@ ORDER BY total_laid_off DESC;
 ```
 ![08](https://github.com/MoaviaMahmood/SQL_Data_Analytics_of_Independence-days-of-countries/assets/168455506/a156e793-ce5b-4bb0-8129-23dda2330c3c)
 
-## Layoff per industry
+## Total layoff per industry
 ```sql
 SELECT 
     industry, 
